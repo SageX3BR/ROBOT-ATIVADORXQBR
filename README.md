@@ -18,7 +18,7 @@
 
 #  Descrição
 
-Sejam bem-vindos! Esse projeto tem por objetivo automatizar testes do projeto do portal Ativador do XQBR.
+Sejam bem-vindos! Esse projeto tem por objetivo automatizar testes do portal Ativador do XQBR.
 
   
 # Como usar o projeto na sua máquina?
