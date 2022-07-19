@@ -39,7 +39,7 @@ Usage: pipenv [OPTIONS] COMMAND [ARGS]...
 ##  Instale todas as dependências com pipenv
 
 
-Se você já possui o Python com o pipenv instalado, abra o projeto no VScode. basta executar:
+Se você já possui o Python com o pipenv instalado, abra o projeto no VScode navegar até a pasta pipenv . basta executar:
   
 
 ```bash
