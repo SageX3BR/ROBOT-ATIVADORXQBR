@@ -32,6 +32,7 @@ Sejam bem-vindos! Esse projeto tem por objetivo automatizar testes do portal Ati
 Usage: pipenv [OPTIONS] COMMAND [ARGS]...
 ```
 * Este projeto usa a versão Python 3.21, para rodar em versões diferentes use o comando `pipenv --python 3.x`
+* Baixe o repositório, abra no VScode e siga com as instalações de dependências
 
 
 
