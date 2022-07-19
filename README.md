@@ -18,7 +18,7 @@ Projeto de automação de testes para o portal de Ativação XQBR
 
 #  Descrição
 
-[Robot Framework](https://robotframework.org/) 
+Sejam bem-vindos! Esse projeto tem por objetivo automatizar testes do projeto do portal Ativador do XQBR.
 
   
 # Como usar o projeto na sua máquina?
