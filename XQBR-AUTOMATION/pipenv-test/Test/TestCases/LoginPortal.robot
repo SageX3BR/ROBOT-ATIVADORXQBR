@@ -8,12 +8,12 @@ Resource       ../../Test/Steps/LoginPortal.robot
 
 *** Test Cases ***
 
-Não permitir login com dados incorretos
+Não permitir login com email fora do padrão
     DADO o acesso ao Portal de Ativação
-    QUANDO o login com usuário com email "meuemail@gmail.com" e senha "dificil"
-    ENTÃO o sistema deverá exibir mensagem de erro ""
+    QUANDO o login com usuário com email "meue!mail@gmail.co!"m" e senha "dificil"
+    ENTÃO o sistema deverá exibir mensagem de erro "The Email field is not a valid e-mail address."
 
 Realizar login com sucesso
     DADO o acesso ao Portal de Ativação
-    QUANDO o login com usuário com email "meuemail@gmail.com" e senha "dificil" 
+    QUANDO o login com usuário com email "admin@axisx3.com" e senha "XvEnxvw5XcX2!uz" 
     ENTÃO o sistema deverá exibir a tela de consulta
