@@ -39,7 +39,7 @@ Usage: pipenv [OPTIONS] COMMAND [ARGS]...
 ##  Instale todas as dependências com pipenv
 
 
-Se você já possui o Python com o pipenv instalado, basta executar:
+Se você já possui o Python com o pipenv instalado, abra o projeto no VScode. basta executar:
   
 
 ```bash
@@ -65,7 +65,7 @@ $ pipenv shell
 $ robot tests.robot
 #or
 $  robot --outputdir ./output tests.robot
-$ robot -d ./results -v  BROWSER:headlessfirefox  .\SearchClinicTest.robot
+$ robot -d ./results -v  BROWSER:headlessfirefox  .\LoginPortal.robot
 
   
 # Para rodar um script do pipfile use o comando:
