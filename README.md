@@ -24,8 +24,8 @@ Sejam bem-vindos! Esse projeto tem por objetivo automatizar testes do portal Ati
 # Como usar o projeto na sua máquina?
 
 
-* Robot Framework requer Python 3.6 ou mais recente, então instale o Python para seguir com os próximos passos.
-* É necessário instalar o gerenciador de pacote pipenv. Podendo seguir esse manual como referência: https://pypi.org/project/pipenv/
+* Robot Framework requer Python 3.6 ou mais recente, então instale o Python para seguir com os próximos passos. https://www.python.org/downloads/
+* É necessário instalar o gerenciador de pacote pipenv através do comando `pip install pipenv`. Você pode ver mais sobre o gerenciador: https://pypi.org/project/pipenv/
 * Após instalar o pipenv será necessário configurar as variáveis de sistema no Path da sua máquina. Esse manual explica como fazer isso: https://www.pythontutorial.net/python-basics/install-pipenv-windows/
 * Antes de começar a usar o projeto, valide se realmente o Pipenv está funcionando corretamente, pois sem esta etapa não será possível usar o projeto. Digite o comando `pipenv -h` e ele deve retornar a documentação do Pipenv
 ```bash
