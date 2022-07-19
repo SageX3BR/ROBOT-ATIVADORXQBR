@@ -14,3 +14,6 @@ ${BROWSER_FF}       firefox
 Abrir Navegador
     Open Browser    browser=${BROWSER_FF}
     Maximize Browser Window   
+
+Fechar Navegador
+    Close All Browsers
