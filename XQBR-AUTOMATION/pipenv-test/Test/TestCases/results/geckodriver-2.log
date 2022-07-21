@@ -10,3 +10,5 @@ DevTools listening on ws://localhost:49258/devtools/browser/f7838408-e3b9-4250-9
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.0.0.51"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "http://10.0.0.51"
 JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE

@@ -10,7 +10,7 @@ Resource       ../../Test/Steps/LoginPortal.robot
 
 Não permitir login com email fora do padrão
     DADO o acesso ao Portal de Ativação
-    QUANDO o login com usuário com email "meue!mail@gmail.co!"m" e senha "dificil"
+    QUANDO o login com usuário com email "meue!mail@gmail.co!m" e senha "dificil"
     ENTÃO o sistema deverá exibir mensagem de erro "The Email field is not a valid e-mail address."
 
 Realizar login com sucesso

@@ -7,3 +7,5 @@ Read port: 49698
 1658256439089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\carla\\AppData\\Local\\Temp\\rust_mozprofile5CGYWl\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://localhost:49688/devtools/browser/f2322a15-b973-41f8-ae2b-692d6f15e830
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
